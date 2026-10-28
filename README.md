@@ -1,1 +1,1 @@
-# Ghana-arb-tracker
+# ghana-arbitrage-scanner
